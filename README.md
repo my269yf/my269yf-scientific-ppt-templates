@@ -1,2 +1,2 @@
-# my269yf-scientific-ppt-templates
-个人设计的科研风格 PPT 模板
+# My269YF 科研风格 PPT 模板
+个人设计的科研风格 PPT 模板，可免费使用。
